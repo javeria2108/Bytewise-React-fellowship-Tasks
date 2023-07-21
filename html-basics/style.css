@@ -1,0 +1,30 @@
+p{
+    color: blue;
+    background-color: aqua;
+    font-size: 30px;
+    font-style: italic;
+}
+h1{
+    color: brown;
+    background-color: rgb(235, 180, 180);
+}
+#box{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid black;
+    float: left;
+
+}
+.box2{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(72, 216, 235);
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid black;
+    float: left;
+
+}
